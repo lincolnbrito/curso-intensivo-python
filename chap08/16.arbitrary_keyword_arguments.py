@@ -3,7 +3,6 @@ def build_profile(first, last, **user_info):
     profile = {}
     profile["first_name"] = first
     profile["last_name"] = last
-    profile + user_info
     print(type(user_info))
     for key,value in user_info.items():
         profile[key] = value
