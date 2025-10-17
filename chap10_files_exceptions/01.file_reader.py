@@ -1,3 +1,3 @@
-with open("pi.txt", "r") as file_object:
+with open("01.pi_digits.txt", "r") as file_object:
     contents = file_object.read()
-    print(contents)
+    print(contents.rstrip())
