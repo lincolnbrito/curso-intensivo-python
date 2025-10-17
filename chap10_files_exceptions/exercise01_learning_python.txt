@@ -1,0 +1,5 @@
+Em Python podemos criar listas
+Em Python podemos manipular arquivos
+Em Python podemos fazer webscrapping
+Em Python podemos criar sistemas desktop
+Em Python podemos trabalhar com IA
